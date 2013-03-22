@@ -1,0 +1,20 @@
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400italic,300,600");
+h1,h2,h3,h4,h5,h6{font-family:"Open Sans",sans-serif;line-height:1.3em;}
+h1{font-weight:100;letter-spacing:-0.06em;color:#000;}
+.page-header{margin-top:30px;}
+.biographies{margin:25px 0 0;}
+.biography h3{font-size:1.3em;margin:5px 0 0;color:#000;}
+.biography h4{font-size:1em;font-weight:300;color:#999;margin-top:2px;}
+.biography hr{margin:10px 0;}
+.biography-content{font-size:12px;line-height:1.5em;}
+.thumbnail .caption{padding-bottom:0;}
+.table{margin:25px 0 0;}.table thead th{background:#eee;border-color:#ccc;}
+.entry-content{margin:0 0 1.5em;}
+.sidebar{margin-top:27px;}.sidebar h3{font-size:18px;font-weight:100;}
+.sidebar .widget{margin:0 0 15px;}
+.content-info{text-align:center;padding:30px 0;font-size:12px;color:#999;}.content-info p{margin:0;}
+.aligncenter{display:block;margin:0 auto;}
+.alignleft{float:left;}
+.alignright{float:right;}
+figure.alignnone{margin-left:0;margin-right:0;}
+@media (max-width:767px){}
